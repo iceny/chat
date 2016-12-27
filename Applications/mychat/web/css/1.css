@@ -1,0 +1,4 @@
+.main{width: 400px;height: 400px;border: 1px solid silver;margin: 100px 500px;}
+.main .main_dia{border: 1px solid skyblue;width: 400px;height: 300px;}
+.main .main_text{width: 400px;margin-top: 10px}
+.main .main_sub{margin-left: 355};
